@@ -13,9 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrchndfyzaa&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrchndfyzaa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrchndfyzaa&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mrchndfyzaa&icon=7&color=10)](https://visitcount.itsvg.in)
 
